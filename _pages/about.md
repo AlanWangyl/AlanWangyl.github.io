@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yilun Wang(王逸伦). I recently earned my Ph.D. in Economics at North Carolina State University, specializing in applied econometrics, with a particular focus on deep learning and large language models (LLMs) for financial and macroeconomic decision-making.
+Hello, I am Yilun Wang(王逸伦). I recently earned my Ph.D. in Economics at North Carolina State University, specializing in applied econometrics, with a particular focus on deep learning and large language models for financial and macroeconomic decision-making.
 
 My research interest lies at the intersection of asset pricing, financial economics and artificial intelligence, aiming to understand how structured market data, unstructured text, and institutional constraints jointly shape asset prices and policy outcomes.
 
