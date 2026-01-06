@@ -23,7 +23,7 @@ repository               : "AlanWangyl/AlanWangyl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/112.png"
+  avatar           : "112.png"
   name             : "Yilun Wang"
   pronouns         : "He/his"  
   bio              : "Ph.D in Economics"
