@@ -3,7 +3,7 @@ title: "Agentic Framework for Alpha Mining"
 collection: publications
 category: conferences
 permalink: /publication/wip4
-excerpt: 'This paper is about a multi-agent system for alpha mining'
+# excerpt: 'This paper is about a multi-agent system for alpha mining'
 # date: 2024-02-17
 # venue: 'GitHub Journal of Bugs'
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
