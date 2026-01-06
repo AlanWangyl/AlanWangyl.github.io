@@ -5,7 +5,7 @@ category: books
 permalink: /publication/paper1
 excerpt: 'Revise & Resubmit'
 # date: 2009-10-01
-venue: 'Journal 1'
+# venue: 'Journal 1'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
