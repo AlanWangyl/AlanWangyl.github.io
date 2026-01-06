@@ -3,7 +3,7 @@ title: "CVRA: Asset Pricing via the Conditional Variational Recurrent Autoencode
 collection: publications
 category: books
 permalink: /publication/paper2
-excerpt: 'Revise & Resubmit'
+excerpt: 'Under Review'
 # date: 2009-10-01
 # venue: 'Journal 1'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
