@@ -85,9 +85,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Submitted Papers'
+    title: 'Finance Track'
   manuscripts:
-    title: 'Working Papers'    
+    title: 'AI Application Track'    
   conferences:
     title: 'Work in Progress'
 
