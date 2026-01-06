@@ -1,7 +1,7 @@
 ---
 title: "Graduate Teaching Assistants"
 collection: teaching
-type: "Workshop"
+# type: "Workshop"
 permalink: /teaching/teaching2
 venue: "NC State University, Department of Economics"
 # date: 2015-01-01
