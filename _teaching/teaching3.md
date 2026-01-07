@@ -1,5 +1,5 @@
 ---
-title: "Independent Instructor, "
+title: "Independent Instructor"
 collection: teaching
 # type: "Principles of Macroeconomics"
 permalink: /teaching/teaching3
